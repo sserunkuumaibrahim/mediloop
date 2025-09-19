@@ -23,7 +23,7 @@ export default function Header() {
               <img
                 src="/assets/mediloop.png"
                 alt="Mediloop logo"
-                className="h-12 w-auto sm:h-16 lg:h-20"
+                className="h-32 w-auto sm:h-32 lg:h-32"
               />
             </Link>
           </div>

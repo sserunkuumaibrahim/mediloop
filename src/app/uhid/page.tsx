@@ -14,7 +14,7 @@ export default function UHIDPage() {
         <div className="text-center mb-16">
           <h1 className="text-5xl font-bold text-gray-900 mb-6">Universal Health ID (UHID)</h1>
           <p className="text-xl text-gray-700 max-w-3xl mx-auto">
-            The Universal Health ID (UHID) is a secure, lifelong health identity for every Ugandan. It enables seamless access to care, secure data sharing, and true ownership of your medical records—anywhere, anytime.
+            The Universal Health ID (UHID) is a secure, lifelong health identity for every Ugandan. It enables seamless access to care, secure data sharing, and true ownership of your medical records - anywhere, anytime.
           </p>
         </div>
 

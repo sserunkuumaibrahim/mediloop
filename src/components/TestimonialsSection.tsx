@@ -21,7 +21,7 @@ export default function TestimonialsSection() {
           ))}
         </div>
         <p className="text-lg text-gray-700 mb-8">
-          Be among the first to experience secure, AI-powered healthcare access for all Ugandans. Universal Health ID, instant AI diagnostics, and seamless provider connections—coming soon!
+          Be among the first to experience secure, AI-powered healthcare access for all Ugandans. Universal Health ID, instant AI diagnostics, and seamless provider connections - coming soon!
         </p>
         <a
           href="mailto:info@mediloop.co"

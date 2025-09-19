@@ -20,7 +20,7 @@ export default function HeroSection() {
           </h1>
 
           <p className="text-xl lg:text-2xl text-gray-700 mb-8 leading-relaxed">
-            Mediloop is launching first in Uganda: giving every Ugandan a Universal Health ID (UHID), connecting all providers, and delivering instant, AI-powered diagnostics and care—accessible to everyone, everywhere in Uganda.
+            Mediloop is launching first in Uganda: giving every Ugandan a Universal Health ID (UHID), connecting all providers, and delivering instant, AI-powered diagnostics and care - accessible to everyone, everywhere in Uganda.
           </p>
 
           <div className="space-y-4 mb-10">

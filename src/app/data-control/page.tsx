@@ -14,7 +14,7 @@ export default function DataControlPage() {
         <div className="text-center mb-16">
           <h1 className="text-5xl font-bold text-gray-900 mb-6">Citizen Data Control</h1>
           <p className="text-xl text-gray-700 max-w-3xl mx-auto">
-            Mediloop puts every Ugandan in control of their medical data. Access, share, and manage your health records securely—anywhere, anytime.
+            Mediloop puts every Ugandan in control of their medical data. Access, share, and manage your health records securely - anywhere, anytime.
           </p>
         </div>
 

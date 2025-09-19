@@ -9,7 +9,7 @@ export default function AnnouncementBanner() {
             Mediloop: Digitalising Healthcare for Uganda
           </span>
           <span className="text-teal-700 text-sm sm:text-base">
-            Universal access. Every citizen in control of their medical data—anywhere, anytime.
+            Universal access. Every citizen in control of their medical data - anywhere, anytime.
           </span>
           <a
             href="https://mediloop.ai/launch"

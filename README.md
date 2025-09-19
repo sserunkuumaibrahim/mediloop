@@ -111,7 +111,7 @@ Mediloop is Africa's first national-scale digital health infrastructure platform
 
 ## 🆔 Universal Health ID (UHID): The Foundation
 
-Every citizen receives a unique, secure Universal Health ID (UHID) — your passport to all healthcare services, records, and benefits. With your UHID, you can:
+Every citizen receives a unique, secure Universal Health ID (UHID) - your passport to all healthcare services, records, and benefits. With your UHID, you can:
 - **Retrieve All Medical Records:** Instantly access your complete health history, lab results, prescriptions, and visits from any provider, anywhere
 - **Seamless Integration:** Connects with all hospitals, clinics, pharmacies, labs, and insurance systems (public and private)
 - **Digital & Physical Health Cards:** Use your UHID as a digital card (app, WhatsApp, wallet) or request a physical card for easy verification and access

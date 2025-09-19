@@ -3,7 +3,25 @@
 ## Introduction
 
 **Narrator Script:**
-"Imagine a world where every Ugandan has instant access to quality healthcare, no matter where they are. Where your health data is truly yours, and AI-powered diagnostics are available through the app you use every day. This isn't science fiction—it's Mediloop, Uganda's national digital health infrastructure."
+"Imagine a world where every Ugandan has instant access to quality healthcare, no matter where they are. Where your health data is truly yours, and AI-powered diagnostics are available through the app you use every day. This isn't science fiction - it's Mediloop, Uganda's national digital health infrastructure."
+
+## The Problem: Healthcare in Uganda Today
+
+**Visuals:** Show statistics, current healthcare challenges, rural vs urban divide
+
+**Narrator Script:**
+"Uganda faces significant healthcare challenges:
+- Over 70% of the population lives in rural areas with limited access to healthcare facilities
+- Long waiting times and travel distances prevent timely medical care
+- Fragmented health records make continuity of care difficult
+- Limited access to specialist consultations
+```markdown
+# Mediloop: Uganda's Digital Health Revolution
+
+## Introduction
+
+**Narrator Script:**
+"Imagine a world where every Ugandan has instant access to quality healthcare, no matter where they are. Where your health data is truly yours, and AI-powered diagnostics are available through the app you use every day. This isn't science fiction - it's Mediloop, Uganda's national digital health infrastructure."
 
 ## The Problem: Healthcare in Uganda Today
 
@@ -159,7 +177,7 @@ Mediloop is a Ugandan solution, built by Ugandans, for Ugandans."
 **Visuals:** Contact information, website, social media
 
 **Narrator Script:**
-"Mediloop is more than technology—it's Uganda's path to universal healthcare access. Join us in building a healthier future for all Ugandans.
+"Mediloop is more than technology - it's Uganda's path to universal healthcare access. Join us in building a healthier future for all Ugandans.
 
 Visit mediloop.co to learn more.
 Contact us at info@mediloop.co
@@ -190,73 +208,73 @@ Follow us for updates on our launch."
 
 ---
 
-## 8-Second Promo (Social) — Storyboard & Script
+## 8-Second Promo (Social) - Storyboard & Script
 
-Purpose: A sharp, high-impact 8-second social promo that clearly communicates Mediloop's core value — instant, accessible healthcare for every Ugandan via UHID + WhatsApp — and drives viewers to visit the website.
+Purpose: A sharp, high-impact 8-second social promo that clearly communicates Mediloop's core value - instant, accessible healthcare for every Ugandan via UHID + WhatsApp - and drives viewers to visit the website.
 
-Format: Two versions recommended — vertical (9:16) for Reels/Shorts, horizontal (16:9) for web/ads. Deliver both at 1080p.
+Format: Two versions recommended - vertical (9:16) for Reels/Shorts, horizontal (16:9) for web/ads. Deliver both at 1080p.
 
-Timing (0:00–0:08):
+Timing (0:00-0:08):
 
-- 0.00–0.50s — Scene 1 — Logo & Hook
+- 0.00-0.50s - Scene 1 - Logo & Hook
 	- Visual: Quick full-screen Mediloop logo pop with soft teal glow + subtle lens flare. Background: blurred hero photo (doctor + patient) dimmed.
-	- On-screen text (bold): "Mediloop" (logo only) — then quick subtitle: "Health for Every Ugandan"
+	- On-screen text (bold): "Mediloop" (logo only) - then quick subtitle: "Health for Every Ugandan"
 	- VO (fast, confident): "Mediloop."
 	- Music/SFX: single uplifting hit, low rumble.
 
-- 0.50–2.00s — Scene 2 — WhatsApp Access
+- 0.50-2.00s - Scene 2 - WhatsApp Access
 	- Visual: Fast screen-record animation of a WhatsApp chat where a user types a symptom and the bot replies with an AI assessment. Show a small UHID icon next to the user name.
-	- On-screen text: "WhatsApp AI diagnostics — no app needed"
+	- On-screen text: "WhatsApp AI diagnostics - no app needed"
 	- VO (clear): "Instant diagnostics on WhatsApp."
 	- Motion: Quick zoom-in on chat bubble, pulse on reply.
 
-- 2.00–4.50s — Scene 3 — UHID & Provider Network
-	- Visual: Split-second montage: UHID card animation flipping → map of Uganda with connecting lines to clinics/hospitals → a clinician viewing a patient's record on a tablet.
+- 2.00-4.50s - Scene 3 - UHID & Provider Network
+	- Visual: Split-second montage: UHID card animation flipping -> map of Uganda with connecting lines to clinics/hospitals -> a clinician viewing a patient's record on a tablet.
 	- On-screen text: "Secure UHID • 1000+ providers"
 	- VO (warm): "Your UHID connects you to care nationwide."
 	- Graphics: Animated network lines, teal nodes, subtle map glow.
 
-- 4.50–6.50s — Scene 4 — Real Impact (Emotion)
+- 4.50-6.50s - Scene 4 - Real Impact (Emotion)
 	- Visual: Rapid b-roll: mother with child smiling at clinic, nurse tapping tablet, ambulance arriving. Use close-ups for empathy.
 	- On-screen text: "Better outcomes. Lower costs."
 	- VO (uplifting): "Faster care. Better outcomes."
 	- Music: Crescendo picks up, rhythmic heartbeat subtly mixed in.
 
-- 6.50–8.00s — Scene 5 — CTA & Tagline
+- 6.50-8.00s - Scene 5 - CTA & Tagline
 	- Visual: Strong end-frame with Mediloop logo centered, website `mediloop.co` and WhatsApp CTA (#number or short instruction), UHID badge subtle at corner.
-	- On-screen text (large): "Mediloop — Healthcare for Every Ugandan"
+	- On-screen text (large): "Mediloop - Healthcare for Every Ugandan"
 	- VO (firm): "Mediloop. Health for every Ugandan."
-	- SFX: Uplifting final chord, quick whoosh.
+	- SFX: Uplighting final chord, quick whoosh.
 
 Production Specs & Notes:
 - Duration: 8 seconds (total)
 - Deliverables: Vertical (9:16) 1080x1920, Horizontal (16:9) 1920x1080, MP4 H.264, 30fps. Include srt caption file.
 - Voiceover: 1-line per scene; tone: warm, confident, Ugandan-accent preferred. VO should be short and punchy to match the rapid cuts.
-- On-screen text: Keep to 3–6 words per frame; use Mediloop teal (#0d9488 / Tailwind `teal-600`) for highlights and white/near-black text for contrast depending on background.
+- On-screen text: Keep to 3-6 words per frame; use Mediloop teal (#0d9488 / Tailwind `teal-600`) for highlights and white/near-black text for contrast depending on background.
 - Subtitles & Accessibility: Include captions (SRT) and ensure color contrast meets WCAG AA. Add audio-descriptive still frame if required.
-- Music: Uplifting African instrumental with modern electronic elements; tempo ~100–110 BPM; must be cleared for social use.
+- Music: Uplifting African instrumental with modern electronic elements; tempo ~100-110 BPM; must be cleared for social use.
 - Graphics: Use Mediloop logo and UHID badge assets from `public/assets/mediloop.png` and `mediloop-ico.png`. Animated network lines in teal/white.
-- Localization: Produce three subtitle or VO track options — English, Luganda, Swahili — for targeted runs.
-- Legal/Compliance: Avoid medical claims; use phrasing like "AI-powered assessments" and "guidance" rather than definitive diagnoses.
+- Localization: Produce three subtitle or VO track options - English, Luganda, Swahili - for targeted runs.
+- Legal/Compliance: Avoid medical claims; use phrasing like \"AI-powered assessments\" and \"guidance\" rather than definitive diagnoses.
 
 Edit Notes for the Editor:
 - Keep cuts very tight with smooth transitions (fast cross-dissolve, quick whip-pan for map to clinic footage).
-- Ensure WhatsApp UI is shown generically, avoid showing third-party trademarks close-up if permissions are required — use a stylized chat UI if needed.
+- Ensure WhatsApp UI is shown generically, avoid showing third-party trademarks close-up if permissions are required - use a stylized chat UI if needed.
 - Prioritize readability for small screens: large CTAs and bold typography on final frame.
 
 Example On-Screen Text (per frame):
-- 0.00 — "Mediloop"
-- 0.50 — "WhatsApp AI diagnostics"
-- 2.00 — "Secure UHID • 1000+ providers"
-- 4.50 — "Faster care. Better outcomes."
-- 6.50 — "Mediloop — mediloop.co"
+- 0.00 - \"Mediloop\"
+- 0.50 - \"WhatsApp AI diagnostics\"
+- 2.00 - \"Secure UHID • 1000+ providers\"
+- 4.50 - \"Faster care. Better outcomes.\"
+- 6.50 - \"Mediloop - mediloop.co\"
 
 Timing & Frame Counts (30fps reference):
-- 0–15 (0.00–0.50s): Logo reveal
-- 15–60 (0.50–2.00s): WhatsApp demo
-- 60–135 (2.00–4.50s): UHID & map montage
-- 135–195 (4.50–6.50s): Impact b-roll
-- 195–240 (6.50–8.00s): Final CTA
+- 0-15 (0.00-0.50s): Logo reveal
+- 15-60 (0.50-2.00s): WhatsApp demo
+- 60-135 (2.00-4.50s): UHID & map montage
+- 135-195 (4.50-6.50s): Impact b-roll
+- 195-240 (6.50-8.00s): Final CTA
 
 Final delivery checklist:
 - Vertical & horizontal MP4s

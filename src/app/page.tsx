@@ -1,8 +1,8 @@
 import Header from '@/components/Header'
 import AnnouncementBanner from '@/components/AnnouncementBanner'
 import HeroSection from '@/components/HeroSection'
-import KeyFeaturesSection from '@/components/KeyFeaturesSection'
 import PartnersSection from '@/components/PartnersSection'
+import KeyFeaturesSection from '@/components/KeyFeaturesSection'
 import ClinicalDocSection from '@/components/ClinicalDocSection'
 import IntegrationsSection from '@/components/IntegrationsSection'
 import TestimonialsSection from '@/components/TestimonialsSection'
@@ -21,9 +21,9 @@ export default function Home() {
     <main className="min-h-screen">
       <Header />
       <AnnouncementBanner />
-      <HeroSection />
-      <KeyFeaturesSection />
-      <PartnersSection />
+  <HeroSection />
+  <PartnersSection />
+  <KeyFeaturesSection />
       <ClinicalDocSection />
       <IntegrationsSection />
       <TestimonialsSection />

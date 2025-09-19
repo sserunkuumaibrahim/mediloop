@@ -9,7 +9,7 @@ export default function ClinicalDocSection() {
             <span className="text-gray-600">AI-powered, local EHRs, and government-ready</span>
           </h2>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-            Mediloop streamlines documentation for Ugandan providers—supporting government reporting, infectious disease tracking, maternal and child health, and more. Seamless integration with local EHRs and national health systems.
+            Mediloop streamlines documentation for Ugandan providers - supporting government reporting, infectious disease tracking, maternal and child health, and more. Seamless integration with local EHRs and national health systems.
           </p>
         </div>
 

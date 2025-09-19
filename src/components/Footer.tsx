@@ -23,7 +23,7 @@ export default function Footer() {
           {/* Mediloop */}
           <div className="flex items-start">
             <Link href="/" className="flex items-center mr-4">
-              <img src="/assets/mediloop.png" alt="Mediloop logo" className="h-12 w-auto sm:h-16" />
+              <img src="/assets/mediloop.png" alt="Mediloop logo" className="h-32 w-auto sm:h-32" />
             </Link>
             <div>
               <div className="space-y-2 text-gray-400">

@@ -7,7 +7,7 @@ export default function ExpertiseSection() {
             Digitalising Healthcare. Empowering Every Ugandan.
           </h2>
           <p className="text-xl text-gray-300">
-            Our vision: Make healthcare accessible to every citizen, and give every Ugandan true control over their medical data—secure, portable, and available anywhere. Mediloop is building the digital backbone for Uganda's health system.
+            Our vision: Make healthcare accessible to every citizen, and give every Ugandan true control over their medical data - secure, portable, and available anywhere. Mediloop is building the digital backbone for Uganda's health system.
           </p>
         </div>
 
@@ -25,7 +25,7 @@ export default function ExpertiseSection() {
             <div className="h-32 bg-teal-700 rounded-lg mb-4 flex items-center justify-center">
               <span className="text-3xl text-white font-bold">1000+</span>
             </div>
-            <p className="text-teal-100">Clinics, hospitals, pharmacies, and labs—connected for seamless care.</p>
+            <p className="text-teal-100">Clinics, hospitals, pharmacies, and labs - connected for seamless care.</p>
           </div>
 
           <div className="bg-gradient-to-br from-teal-600 to-teal-800 rounded-2xl p-8">
@@ -33,7 +33,7 @@ export default function ExpertiseSection() {
             <div className="h-32 bg-teal-700 rounded-lg mb-4 flex items-center justify-center">
               <span className="text-3xl text-white font-bold">eHealth</span>
             </div>
-            <p className="text-teal-100">AI, telemedicine, insurance, logistics, and more—built on Mediloop's secure platform.</p>
+            <p className="text-teal-100">AI, telemedicine, insurance, logistics, and more - built on Mediloop's secure platform.</p>
           </div>
         </div>
 

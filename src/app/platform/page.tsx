@@ -46,7 +46,7 @@ export default function PlatformPage() {
           <div className="bg-white rounded-lg p-8 shadow-lg">
             <h3 className="text-2xl font-bold text-gray-900 mb-4">Digital Services</h3>
             <p className="text-gray-700 mb-4">
-              Access telemedicine, insurance, logistics, and AI-powered diagnostics—all on one secure platform.
+              Access telemedicine, insurance, logistics, and AI-powered diagnostics - all on one secure platform.
             </p>
             <ul className="text-gray-600 space-y-2">
               <li>• eHealth & telemedicine</li>
